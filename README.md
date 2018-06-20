@@ -6,12 +6,14 @@ First and only condition is both the systems should be under same network
 
 Steps to Run:
 
-First run server.py
+Step1 : run server.py
 
-Then, run client.py
+Step2 : run client.py
 
 Then, Hack begins, as server.py system gets control of client.py system.
 
 Enjoy...........
 
 :)
+
+Future Works : To send large files(1GB) over network using FTP.
